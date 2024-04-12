@@ -1,0 +1,207 @@
+source: https://en.wikipedia.org/wiki/Snake 
+  
+ This article is about the reptile. For other uses, see Snake (disambiguation). 
+ Snakes 
+  
+ Scientific classification Edit this classification 
+ Domain: 	Eukaryota 
+ Kingdom: 	Animalia 
+ Phylum: 	Chordata 
+ Class: 	Reptilia 
+ Order: 	Squamata 
+ Clade: 	Ophidia 
+ Suborder: 	Serpentes 
+ Linnaeus, 1758 
+ Infraorders 
+  
+  
+ Snakes are elongated, limbless, carnivorous reptiles of the suborder Serpentes (/sɜːrˈpɛntiːz/). Like all other squamates, snakes are ectothermic, amniote vertebrates covered in overlapping scales. Many species of snakes have skulls with several more joints than their lizard ancestors, enabling them to swallow prey much larger than their heads (cranial kinesis). To accommodate their narrow bodies, snakes' paired organs (such as kidneys) appear one in front of the other instead of side by side, and most have only one functional lung. Some species retain a pelvic girdle with a pair of vestigial claws on either side of the cloaca. Lizards have independently evolved elongate bodies without limbs or with greatly reduced limbs at least twenty-five times via convergent evolution, leading to many lineages of legless lizards. These resemble snakes, but several common groups of legless lizards have eyelids and external ears, which snakes lack, although this rule is not universal (see Amphisbaenia, Dibamidae, and Pygopodidae). 
+  
+ Living snakes are found on every continent except Antarctica, and on most smaller land masses; exceptions include some large islands, such as Ireland, Iceland, Greenland, the Hawaiian archipelago, and the islands of New Zealand, as well as many small islands of the Atlantic and central Pacific oceans. Additionally, sea snakes are widespread throughout the Indian and Pacific oceans. Around thirty families are currently recognized, comprising about 520 genera and about 3,900 species. They range in size from the tiny, 10.4 cm-long (4.1 in) Barbados threadsnake to the reticulated python of 6.95 meters (22.8 ft) in length. The fossil species Titanoboa cerrejonensis was 12.8 meters (42 ft) long. Snakes are thought to have evolved from either burrowing or aquatic lizards, perhaps during the Jurassic period, with the earliest known fossils dating to between 143 and 167 Ma ago. The diversity of modern snakes appeared during the Paleocene epoch (c. 66 to 56 Ma ago, after the Cretaceous–Paleogene extinction event). The oldest preserved descriptions of snakes can be found in the Brooklyn Papyrus. 
+  
+ Most species of snake are nonvenomous and those that have venom use it primarily to kill and subdue prey rather than for self-defense. Some possess venom that is potent enough to cause painful injury or death to humans. Nonvenomous snakes either swallow prey alive or kill by constriction.  
+  
+ Etymology 
+  
+ The English word snake comes from Old English snaca, itself from Proto-Germanic *snak-an- (cf. Germanic Schnake 'ring snake', Swedish snok 'grass snake'), from Proto-Indo-European root *(s)nēg-o- 'to crawl to creep', which also gave sneak as well as Sanskrit nāgá 'snake'. The word ousted adder, as adder went on to narrow in meaning, though in Old English næddre was the general word for snake. The other term, serpent, is from French, ultimately from Indo-European *serp- 'to creep', which also gave Ancient Greek ἕρπω (hérpō) 'I crawl' and Sanskrit sarpá ‘snake’. 
+  
+ Evolution 
+  
+ The fossil record of snakes is relatively poor because snake skeletons are typically small and fragile making fossilization uncommon. Fossils readily identifiable as snakes (though often retaining hind limbs) first appear in the fossil record during the Cretaceous period. The earliest known true snake fossils (members of the crown group Serpentes) come from the marine simoliophiids, the oldest of which is the Late Cretaceous (Cenomanian age) Haasiophis terrasanctus from the West Bank, dated to between 112 and 94 million years old. 
+  
+ Based on genomic analysis it is certain that snakes descend from lizards. This conclusion is also supported by comparative anatomy, and the fossil record.: 11  
+  
+ Pythons and boas—primitive groups among modern snakes—have vestigial hind limbs: tiny, clawed digits known as anal spurs, which are used to grasp during mating.: 11  The families Leptotyphlopidae and Typhlopidae also possess remnants of the pelvic girdle, appearing as horny projections when visible. 
+  
+ Front limbs are nonexistent in all known snakes. This is caused by the evolution of their Hox genes, controlling limb morphogenesis. The axial skeleton of the snakes' common ancestor, like most other tetrapods, had regional specializations consisting of cervical (neck), thoracic (chest), lumbar (lower back), sacral (pelvic), and caudal (tail) vertebrae. Early in snake evolution, the Hox gene expression in the axial skeleton responsible for the development of the thorax became dominant. As a result, the vertebrae anterior to the hindlimb buds (when present) all have the same thoracic-like identity (except from the atlas, axis, and 1–3 neck vertebrae). In other words, most of a snake's skeleton is an extremely extended thorax. Ribs are found exclusively on the thoracic vertebrae. Neck, lumbar and pelvic vertebrae are very reduced in number (only 2–10 lumbar and pelvic vertebrae are present), while only a short tail remains of the caudal vertebrae. However, the tail is still long enough to be of important use in many species, and is modified in some aquatic and tree-dwelling species. 
+  
+ Many modern snake groups originated during the Paleocene, alongside the adaptive radiation of mammals following the extinction of (non-avian) dinosaurs. The expansion of grasslands in North America also led to an explosive radiation among snakes. Previously, snakes were a minor component of the North American fauna, but during the Miocene, the number of species and their prevalence increased dramatically with the first appearances of vipers and elapids in North America and the significant diversification of Colubridae (including the origin of many modern genera such as Nerodia, Lampropeltis, Pituophis, and Pantherophis). 
+ Fossils 
+  
+ There is fossil evidence to suggest that snakes may have evolved from burrowing lizards, during the Cretaceous Period. An early fossil snake relative, Najash rionegrina, was a two-legged burrowing animal with a sacrum, and was fully terrestrial. Najash, which lived 95 million years ago, also had a skull with several features typical for lizards, but had evolved some of the mobile skull joints that define the flexible skull in most modern snakes. The species did not show any resemblances to the modern burrowing blind snakes, which have often been seen as the most primitive group of extant forms. One extant analog of these putative ancestors is the earless monitor Lanthanotus of Borneo (though it is also semiaquatic). Subterranean species evolved bodies streamlined for burrowing, and eventually lost their limbs. According to this hypothesis, features such as the transparent, fused eyelids (brille) and loss of external ears evolved to cope with fossorial difficulties, such as scratched corneas and dirt in the ears. Some primitive snakes are known to have possessed hindlimbs, but their pelvic bones lacked a direct connection to the vertebrae. These include fossil species like Haasiophis, Pachyrhachis and Eupodophis, which are slightly older than Najash. 
+  
+ This hypothesis was strengthened in 2015 by the discovery of a 113-million-year-old fossil of a four-legged snake in Brazil that has been named Tetrapodophis amplectus. It has many snake-like features, is adapted for burrowing and its stomach indicates that it was preying on other animals. It is currently uncertain if Tetrapodophis is a snake or another species, in the squamate order, as a snake-like body has independently evolved at least 26 times. Tetrapodophis does not have distinctive snake features in its spine and skull. A study in 2021 places the animal in a group of extinct marine lizards from the Cretaceous period known as dolichosaurs and not directly related to snakes. 
+  
+ An alternative hypothesis, based on morphology, suggests the ancestors of snakes were related to mosasaurs—extinct aquatic reptiles from the Cretaceous—forming the clade Pythonomorpha. According to this hypothesis, the fused, transparent eyelids of snakes are thought to have evolved to combat marine conditions (corneal water loss through osmosis), and the external ears were lost through disuse in an aquatic environment. This ultimately led to an animal similar to today's sea snakes. In the Late Cretaceous, snakes recolonized land, and continued to diversify into today's snakes. Fossilized snake remains are known from early Late Cretaceous marine sediments, which is consistent with this hypothesis; particularly so, as they are older than the terrestrial Najash rionegrina. Similar skull structure, reduced or absent limbs, and other anatomical features found in both mosasaurs and snakes lead to a positive cladistical correlation, although some of these features are shared with varanids. 
+  
+ Genetic studies in recent years have indicated snakes are not as closely related to monitor lizards as was once believed—and therefore not to mosasaurs, the proposed ancestor in the aquatic scenario of their evolution. However, more evidence links mosasaurs to snakes than to varanids. Fragmented remains found from the Jurassic and Early Cretaceous indicate deeper fossil records for these groups, which may potentially refute either hypothesis.  
+  
+ Genetic basis of snake evolution 
+ Main article: Limb development 
+  
+ Both fossils and phylogenetic studies demonstrate that snakes evolved from lizards, hence the question became which genetic changes led to limb loss in the snake ancestor. Limb loss is actually very common in extant reptiles and has happened dozens of times within skinks, anguids, and other lizards. 
+  
+ In 2016, two studies reported that limb loss in snakes is associated with DNA mutations in the Zone of Polarizing Activity Regulatory Sequence (ZRS), a regulatory region of the sonic hedgehog gene which is critically required for limb development. More advanced snakes have no remnants of limbs, but basal snakes such as pythons and boas do have traces of highly reduced, vestigial hind limbs. Python embryos even have fully developed hind limb buds, but their later development is stopped by the DNA mutations in the ZRS. 
+  
+ Distribution 
+  
+ There are about 3,900 species of snakes, ranging as far northward as the Arctic Circle in Scandinavia and southward through Australia. Snakes can be found on every continent except Antarctica, as well as in the sea, and as high as 16,000 feet (4,900 m) in the Himalayan Mountains of Asia.: 143  There are numerous islands from which snakes are absent, such as Ireland, Iceland, and New Zealand (although New Zealand's northern waters are infrequently visited by the yellow-bellied sea snake and the banded sea krait). 
+ Taxonomy 
+ See also: List of snake genera 
+  
+ All modern snakes are grouped within the suborder Serpentes in Linnean taxonomy, part of the order Squamata, though their precise placement within squamates remains controversial. 
+  
+ The two infraorders of Serpentes are Alethinophidia and Scolecophidia. This separation is based on morphological characteristics and mitochondrial DNA sequence similarity. Alethinophidia is sometimes split into Henophidia and Caenophidia, with the latter consisting of "colubroid" snakes (colubrids, vipers, elapids, hydrophiids, and atractaspids) and acrochordids, while the other alethinophidian families comprise Henophidia. While not extant today, the Madtsoiidae, a family of giant, primitive, python-like snakes, was around until 50,000 years ago in Australia, represented by genera such as Wonambi. 
+  
+ There are numerous debates in the systematics within the group. For instance, many sources classify Boidae and Pythonidae as one family, while some keep the Elapidae and Hydrophiidae (sea snakes) separate for practical reasons despite their extremely close relation. 
+  
+ Recent molecular studies support the monophyly of the clades of modern snakes, scolecophidians, typhlopids + anomalepidids, alethinophidians, core alethinophidians, uropeltids (Cylindrophis, Anomochilus, uropeltines), macrostomatans, booids, boids, pythonids and caenophidians.  
+  
+ Legless lizards 
+ Main article: Legless lizard 
+  
+ While snakes are limbless reptiles, evolved from (and grouped with) lizards, there are many other species of lizards that have lost their limbs independently but which superficially look similar to snakes. These include the slowworm, glass snake, and amphisbaenians. 
+  
+ Other limbless stegocephalians that are unrelated to snakes include caecilians (amphibians), and the extinct aistopods. 
+  
+ Biology 
+  
+ Size 
+  
+ The now extinct Titanoboa cerrejonensis was 12.8 m (42 ft) in length. By comparison, the largest extant snakes are the reticulated python, measuring about 6.95 m (22.8 ft) long, and the green anaconda, which measures about 5.21 m (17.1 ft) long and is considered the heaviest snake on Earth at 97.5 kg (215 lb). 
+  
+ At the other end of the scale, the smallest extant snake is Leptotyphlops carlae, with a length of about 10.4 cm (4.1 in). Most snakes are fairly small animals, approximately 1 m (3.3 ft) in length. 
+ Perception 
+  
+ Some of the most highly evolved snakes are the Crotalidae, or pit vipers—the rattlesnakes and their associates. Pit vipers have all the sense organs of other snakes, as well as additional aids. Pit refers to special infrared-sensitive receptors located on either side of the head, between the nostrils and the eyes. In fact the pit looks like an extra pair of nostrils. All snakes have the ability to sense warmth with touch and heat receptors like other animals ;however, the highly developed pit of the pit vipers is distinctive. Each pit is made of a pit cavity and an inner cavity, the larger one lies just behind and generally below the level of the nostril, and opens forward. Behind this larger cavity is a finer one, barely visible; the cavities are connected internally, separated only by a membrane with nerves that are extraordinarily attuned to detecting temperature changes between. As in the overlapping vision fields of human eyes, the forward-facing pit on either side of the face combined produces a field of vision: a pit viper can distinguish between objects and their environments, as well as accurately judge the distance between objects and itself. The heat sensing ability of a pit viper is so great that it can react to a difference as small as one third of a degree Fahrenheit. Other infrared-sensitive snakes have multiple, smaller labial pits lining the upper lip, just below the nostrils. 
+  
+ A snake tracks its prey using smell, collecting airborne particles with its forked tongue, then passing them to the vomeronasal organ or Jacobson's organ in the mouth for examination. The  The fork in the tongue provides a sort of directional sense of smell and taste simultaneously. The snake's tongue is constantly in motion, sampling particles from the air, ground, and water, analyzing the chemicals found, and determining the presence of prey or predators in the local environment. In water-dwelling snakes, such as the anaconda, the tongue functions efficiently underwater. 
+  
+ To pick up particles in the air, the tongue is flicked out. Like a hand getting the weight of something, the fork in the tongue simultaneously provides a sort of directional sense. Snakes have a good sense of smell, but this sense is greatly enhanced in the window of a special organ, the Jacobson's organ. As the tongue is peeled back into the mouth, the forked tip is pressed into the cavities of the Jacobson's organ. Withdrawn to a point, the tongue and the Jacobson's organ work in concert for a taste-smell analysis. The organ itself gives the snake an extrasensory conduit. Quite literally, the snake gets a taste of the neighborhood, capable of slithering in rooms of information like the doors are open. 
+  
+ Up until as late as the mid 20th century it was assumed snakes could not hear. In fact snakes have two distinct and wholly independent systems. One of these systems, the somatic, involves transmission of frequencies through ventral skin receptors via the spine. The other system involves vibrations that are transmitted through the snake's attenuated lung to the brain via cranial nerve. A snake's sensitivity to vibration is extremely high.   In a quiet room ,a snake can hear someone speaking softly. 
+  
+ Snake vision varies greatly between species. Some have keen eyesight and others are only able to distinguish light from dark, but the important trend is that a snake's visual perception is adequate enough to track movements. Generally, vision is best in tree-dwelling snakes and weakest in burrowing snakes. Some have binocular vision, where both eyes are capable of focusing on the same point, an example of this being the Asian vine snake. Most snakes focus by moving the lens back and forth in relation to the retina. Diurnal snakes have round pupils and many nocturnal snakes have slit pupils. Most species possess three visual pigments and are probably able to see two primary colors in daylight. The annulated sea snake and the genus Helicops appears to have regained much of their color vision as an adaption to the marine environment they live in. It has been concluded that the last common ancestors of all snakes had UV-sensitive vision, but most snakes that depend on their eyesight to hunt in daylight have evolved lenses that act like sunglasses for filtering out the UV-light, which probably also sharpens their vision by improving the contrast.  
+  
+ Skin 
+ Main article: Snake scale 
+  
+ The skin of a snake is covered in scales. Contrary to the popular notion of snakes being slimy (because of possible confusion of snakes with worms), snakeskin has a smooth, dry texture. Most snakes use specialized belly scales to travel, allowing them to grip surfaces. The body scales may be smooth, keeled, or granular. The eyelids of a snake are transparent "spectacle" scales, also known as brille, which remain permanently closed. 
+  
+ The shedding of scales is called ecdysis (or in normal usage, molting or sloughing). Snakes shed the complete outer layer of skin in one piece. Snake scales are not discrete, but extensions of the epidermis—hence they are not shed separately but as a complete outer layer during each molt, akin to a sock being turned inside out. 
+  
+ Snakes have a wide diversity of skin coloration patterns which are often related to behavior, such as the tendency to have to flee from predators. Snakes that are at a high risk of predation tend to be plain, or have longitudinal stripes, providing few reference points to predators, thus allowing the snake to escape without being noticed. Plain snakes usually adopt active hunting strategies, as their pattern allows them to send little information to prey about motion. Blotched snakes usually use ambush-based strategies, likely because it helps them blend into an environment with irregularly shaped objects, like sticks or rocks. Spotted patterning can similarly help snakes to blend into their environment. 
+  
+ The shape and number of scales on the head, back, and belly are often characteristic and used for taxonomic purposes. Scales are named mainly according to their positions on the body. In "advanced" (Caenophidian) snakes, the broad belly scales and rows of dorsal scales correspond to the vertebrae, allowing these to be counted without the need for dissection. 
+ Molting 
+  
+ Molting (or "ecdysis") serves a number of purposes - it allows old, worn skin to be replaced and can be synced to mating cycles, as with other animals. For a snak,e the skin has been modified to serve the its specialized form of locomotion. Between the inner layer and the outer layer lies the dermis, which contains all the pigments and cells that make up the snake's distinguishing pattern and color. The epidermis, or outer layer, is formed of a substance called keratin, which in mammals is the same basic material that forms nails, claws, and hair. The snake's epidermis of keratin provides it with the armor it needs to protect its internal organs and reduce friction as it passes over rocks. Parts of this keratin armor are rougher than others. The less restricted portion overlaps the front of the scale beneath it. Between them lies a folded back connecting material, also of keratin, also part of the epidermis. This folded back material gives as the snake undulates or eats things bigger than the circumference of its body. Renewal of the skin by molting supposedly increases the mass of some animals such as insects, but in the case of snakes this has been disputed. Shedding skin can release pheromones and revitalize color and patterns of the skin to increase attraction of mates. 
+  
+ Molting occurs periodically throughout the life of a snake. Before each molt, the snake regulates it's diet and seek defensible shelter. Just before shedding, the skin becomes grey and the snake's eyes turn silvery. The inner surface of the old skin liquefies, causing it to separate from the new skin beneath it. After a few days, the eyes clear and the snake reaches out of its old skin, which splits. The snake rubs its body against rough surfaces to aid in the shedding of its old skin. In many cases, the castaway skin peels backward over the body from head to tail in one piece, like taking the dust jacket off a book, revealing a new, larger, brighter layer of skin which has formed underneath. 
+  
+ Snakes may shed four of five times a year, depending on the weather conditions, food supply, age of the snake, and other factors. It is theoretically possible to identify the snake from its cast skin if it is reasonably intact. Mythological associations of snakes with symbols of healing and medicine, as pictured in the Rod of Asclepius, are derivative of molting. 
+  
+ One can attempt to identify the sex of a snake when the species is not distinctly sexually dimorphic by counting scales. The cloaca is probed and measured against the subcaudal scales. Counting scales determines whether a snake is a male or female, as the hemipenes of a male being probed is usually longer..</ref> 
+ Skeleton 
+ The skeletons of snakes are radically different from those of most other reptiles (as compared with the turtle here, for example), consisting almost entirely of an extended ribcage. 
+  
+ The skull of a snake differs from a lizards in several ways. Snakes have more flexible jaws, that is, instead of a juncture at the upper and lower jaw, the snake's jaws are connected by a bone hinge that is called the quadrate bone. Between the two halves of the lower jaw at the chin there is an elastic ligament that allows for a separation. This allows the snake to swallow food larger in proportion to their size and go longer without it, since snakes ingest relatively more in one feeding.  Because the sides of the lower jaw can move independently of one another, a snake resting its jaw on a surface has stereo auditory perception, used for detecting the position of prey. The jaw–quadrate–stapes pathway is capable of detecting vibrations on the angstrom scale, despite the absence of an outer ear and the lack of an impedance matching mechanism—provided by the ossicles in other vertebrates.In a snake's skull the brain is well protected. As brain tissues could be damaged through the palate, this protection is especially valuable. The solid and complete neurocranium of snakes is closed at the front. 
+  
+ The skeleton of most snakes consists solely of the skull, hyoid, vertebral column, and ribs, though henophidian snakes retain vestiges of the pelvis and rear limbs. The hyoid is a small bone located posterior and ventral to the skull, in the 'neck' region, which serves as an attachment for the muscles of the snake's tongue, as it does in all other tetrapods. The vertebral column consists of between 200 and 400 vertebrae, or sometimes more. The body vertebrae each have two ribs articulating with them. The tail vertebrae are comparatively few in number (often less than 20% of the total) and lack ribs. The vertebrae have projections that allow for strong muscle attachment, enabling locomotion without limbs. 
+  
+ Caudal autotomy (self-amputation of the tail), a feature found in some lizards, is absent in most snakes. In the rare cases where it does exist in snakes, caudal autotomy is intervertebral (meaning the separation of adjacent vertebrae), unlike that in lizards, which is intravertebral, i.e. the break happens along a predefined fracture plane present on a vertebra. 
+  
+ In some snakes, most notably boas and pythons, there are vestiges of the hindlimbs in the form of a pair of pelvic spurs. These small, claw-like protrusions on each side of the cloaca are the external portion of the vestigial hindlimb skeleton, which includes the remains of an ilium and femur. 
+  
+ Snakes are polyphyodonts with teeth that are continuously replaced. 
+ Internal organs 
+ Anatomy of a snake.file info 
+  
+     esophagus 
+     trachea 
+     tracheal lungs 
+     rudimentary left lung 
+     right lung 
+     heart 
+     liver 
+     stomach 
+     air sac 
+     gallbladder 
+     pancreas 
+     spleen 
+     intestine 
+     testicles 
+     kidneys 
+  
+ Snakes and other non-archosaur (crocodilians, dinosaurs + birds and allies) reptiles have a three-chambered heart that controls the circulatory system via the left and right atrium, and one ventricle. Internally, the ventricle is divided into three interconnected cavities: the cavum arteriosum, the cavum pulmonale, and the cavum venosum. The cavum venosum receives deoxygenated blood from the right atrium and the cavum arteriosum receives oxygenated blood from the left atrium. Located beneath the cavum venosum is the cavum pulmonale, which pumps blood to the pulmonary trunk. 
+  
+ The snake's heart is encased in a sac, called the pericardium, located at the bifurcation of the bronchi. The heart is able to move around, owing to the lack of a diaphragm; this adjustment protects the heart from potential damage when large ingested prey is passed through the esophagus. The spleen is attached to the gall bladder and pancreas and filters the blood. The thymus, located in fatty tissue above the heart, is responsible for the generation of immune cells in the blood. The cardiovascular system of snakes is unique for the presence of a renal portal system in which the blood from the snake's tail passes through the kidneys before returning to the heart. 
+  
+ The circulatory system of a snake is basically like those of any other vertebrae. However, snakes do not regulate internally the temperature of their blood. Called cold-blooded, snakes actually have blood that is responsive to the varying temperature of the immediate environment. Snakes can regulate blood temperature by moving. Too long in direct sunlight, the snakes' blood is heated by beyond tolerance. Left in the ice or snow, the snake may freeze. In temperate zones with pronounced seasonal changes, snakes denning together have adapted to the onslaught of winter. 
+  
+ The vestigial left lung is often small or sometimes even absent, as snakes' tubular bodies require all of their organs to be long and thin.  In the majority of species, only one lung is functional. This lung contains a vascularized anterior portion and a posterior portion that does not function in gas exchange. This 'saccular lung' is used for hydrostatic purposes to adjust buoyancy in some aquatic snakes and its function remains unknown in terrestrial species. Many organs that are paired, such as kidneys or reproductive organs, are staggered within the body, one located ahead of the other. 
+  
+ The snake with its particular arrangement of organs may achieve a greater efficiency. For example, the lung encloses at the part nearest the head and throat an oxygen intake organ, while the other half is used for air reserve. The esophagus-stomach-intestine arrangement is a straight line. It ends where intestinal, urinary, and reproductive tracts open, in a chamber called the cloaca. 
+  
+ Snakes have no lymph nodes. 
+ Venom 
+ See also: Snake venom, Venomous snake, and § Bite 
+ Innocuous milk snakes are often mistaken for coral snakes whose venom is deadly to humans. 
+  
+ Cobras, vipers, and closely related species use venom to immobilize, injure, or kill their prey. The venom is modified saliva, delivered through fangs.: 243  The fangs of 'advanced' venomous snakes like viperids and elapids are hollow, allowing venom to be injected more effectively, and the fangs of rear-fanged snakes such as the boomslang simply have a groove on the posterior edge to channel venom into the wound. Snake venoms are often prey-specific, and their role in self-defense is secondary.: 243  
+  
+ Venom, like all salivary secretions, is a predigestant that initiates the breakdown of food into soluble compounds, facilitating proper digestion. Even nonvenomous snakebites (like any animal bite) cause tissue damage.: 209  
+  
+ Certain birds, mammals, and other snakes (such as kingsnakes) that prey on venomous snakes have developed resistance and even immunity to certain venoms.: 243  Venomous snakes include three families of snakes, and do not constitute a formal taxonomic classification group. 
+  
+ The colloquial term "poisonous snake" is generally an incorrect label for snakes. A poison is inhaled or ingested, whereas venom produced by snakes is injected into its victim via fangs. There are, however, two exceptions: Rhabdophis sequesters toxins from the toads it eats, then secretes them from nuchal glands to ward off predators; and a small unusual population of garter snakes in the US state of Oregon retains enough toxins in their livers from ingested newts to be effectively poisonous to small local predators (such as crows and foxes). 
+  
+ Snake venoms are complex mixtures of proteins, and are stored in venom glands at the back of the head. In all venomous snakes, these glands open through ducts into grooved or hollow teeth in the upper jaw.: 243  The proteins can potentially be a mix of neurotoxins (which attack the nervous system), hemotoxins (which attack the circulatory system), cytotoxins (which attack the cells directly), bungarotoxins (related to neurotoxins, but also directly affect muscle tissue), and many other toxins that affect the body in different ways. Almost all snake venom contains hyaluronidase, an enzyme that ensures rapid diffusion of the venom.: 243  
+  
+ Venomous snakes that use hemotoxins usually have fangs in the front of their mouths, making it easier for them to inject the venom into their victims. Some snakes that use neurotoxins (such as the mangrove snake) have fangs in the back of their mouths, with the fangs curled backwards. This makes it difficult both for the snake to use its venom and for scientists to milk them. Elapids, however, such as cobras and kraits are proteroglyphous—they possess hollow fangs that cannot be erected toward the front of their mouths, and cannot "stab" like a viper. They must actually bite the victim.: 242  
+  
+ It has been suggested that all snakes may be venomous to a certain degree, with harmless snakes having weak venom and no fangs. According to this theory, most snakes that are labelled "nonvenomous" would be considered harmless because they either lack a venom delivery method or are incapable of delivering enough to endanger a human. The theory postulates that snakes may have evolved from a common lizard ancestor that was venomous, and also that venomous lizards like the gila monster, beaded lizard, monitor lizards, and the now-extinct mosasaurs, may have derived from this same common ancestor. They share this "venom clade" with various other saurian species. 
+  
+ Venomous snakes are classified in two taxonomic families: 
+  
+     Elapids – cobras including king cobras, kraits, mambas, Australian copperheads, sea snakes, and coral snakes. 
+     Viperids – vipers, rattlesnakes, copperheads/cottonmouths, and bushmasters. 
+  
+ There is a third family containing the opistoglyphous (rear-fanged) snakes (as well as the majority of other snake species): 
+  
+     Colubrids – boomslangs, tree snakes, vine snakes, cat snakes, although not all colubrids are venomous.: 209  
+  
+ Reproduction 
+ See also: Sexual selection in scaled reptiles 
+  
+ Although a wide range of reproductive modes are used by snakes, all employ internal fertilization. This is accomplished by means of paired, forked hemipenes, which are stored, inverted, in the male's tail. The hemipenes are often grooved, hooked, or spined—designed to grip the walls of the female's cloaca. The clitoris of the female snake consists of two structures located between the cloaca and the scent glands. 
+  
+ Most species of snakes lay eggs which they abandon shortly after laying. However, a few species (such as the king cobra) construct nests and stay in the vicinity of the hatchlings after incubation. Most pythons coil around their egg-clutches and remain with them until they hatch. A female python will not leave the eggs, except to occasionally bask in the sun or drink water. She will even "shiver" to generate heat to incubate the eggs. 
+  
+ Some species of snake are ovoviviparous and retain the eggs within their bodies until they are almost ready to hatch. Several species of snake, such as the boa constrictor and green anaconda, are fully viviparous, nourishing their young through a placenta as well as a yolk sac; this is highly unusual among reptiles, and normally found in requiem sharks or placental mammals. Retention of eggs and live birth are most often associated with colder environments. 
+  
+ Sexual selection in snakes is demonstrated by the 3,000 species that each use different tactics in acquiring mates. Ritual combat between males for the females they want to mate with includes topping, a behavior exhibited by most viperids in which one male will twist around the vertically elevated fore body of its opponent and force it downward. It is common for neck-biting to occur while the snakes are entwined. 
+ Facultative parthenogenesis 
+  
+ Parthenogenesis is a natural form of reproduction in which growth and development of embryos occur without fertilization. Agkistrodon contortrix (copperhead) and Agkistrodon piscivorus (cottonmouth) can reproduce by facultative parthenogenesis, meaning that they are capable of switching from a sexual mode of reproduction to an asexual mode. The most likely type of parthenogenesis to occur is automixis with terminal fusion, a process in which two terminal products from the same meiosis fuse to form a diploid zygote. This process leads to genome-wide homozygosity, expression of deleterious recessive alleles, and often to developmental abnormalities. Both captive-born and wild-born copperheads and cottonmouths appear to be capable of this form of parthenogenesis. 
+  
+ Reproduction in squamate reptiles is almost exclusively sexual. Males ordinarily have a ZZ pair of sex-determining chromosomes, and females a ZW pair. However, the Colombian Rainbow boa (Epicrates maurus) can also reproduce by facultative parthenogenesis, resulting in production of WW female progeny. The WW females are likely produced by terminal automixis. 
+ Embryonic Development 
+ Mouse embryo 12 day post fertilization side by side with corn snake embryo 2 days post ovo-positioning. 
+  
+ Snake embryonic development initially follows similar steps as any vertebrate embryo. The snake embryo begins as a zygote, undergoes rapid cell division, forms a germinal disc, also called a blastodisc, then undergoes gastrulation, neurulation, and organogenesis. Cell division and proliferation continues until an early snake embryo develops and the typical body shape of a snake can be observed. Multiple features differentiate the embryologic development of snakes from other vertebrates, two significant factors being the elongation of the body and the lack of limb development. 
+ Diagram illustrating differential somite size due to difference in somitogenesis clock oscillation 
+  
+ The elongation in snake body is accompanied by a significant increase in vertebra count (mice have 60 vertebrae, whereas snakes may have over 300). This increase in vertebrae is due to an increase in somites during embryogenesis, leading to an increased number of vertebrae which develop. Somites are formed at the presomitic mesoderm due to a set of oscillatory genes that direct the somitogenesis clock. The snake somitogenesis clock operates at a frequency 4 times that of a mouse (after correction for developmental time), creating more somites, and therefore creating more vertebrae. This difference in clock speed is believed to be caused by differences in Lunatic fringe gene expression, a gene involved in the somitogenesis clock. 
+  
+ There is ample literature focusing on the limb development/lack of development in snake embryos and the gene expression associated with the different stages. In basal snakes, such as the python, embryos in early development exhibit a hind limb bud that develops with some cartilage and a cartilaginous pelvic element, however this degenerates before hatching. This presence of vestigial development suggests that some snakes are still undergoing hind limb reduction before they are eliminated. There is no evidence in basal snakes of forelimb rudiments and no examples of snake forelimb bud initiation in embryo, so little is known regarding the loss of this trait. Recent studies suggests that hind limb reduction could be due to mutations in enhancers for the SSH gene, however other studies suggested that mutations within the Hox Genes or their enhancers could contribute to snake limblessness. Since multiple studies have found evidence suggesting different genes played a role in the loss of limbs in snakes, it is likely that multiple gene mutations had an additive effect leading to limb loss in snakes 
