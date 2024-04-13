@@ -1,6 +1,6 @@
 import streamlit as st
 import os
-from pages.backend import doc_embedding
+from pages.backend import rag_functions
 
 
 st.title("Document embedding")
@@ -50,14 +50,14 @@ with st.form("document_input"):
 if save_button:
     # Read the uploaded file
     if document.name[-4:] == ".pdf":
-        document = doc_embedding.read_pdf(document)
+        document = rag_functions.read_pdf(document)
     elif document.name[-4:] == ".txt":
-        document = doc_embedding.read_txt(document)
+        document = rag_functions.read_txt(document)
     else:
-        st.markdown("Check if the uploaded file is .pdf or .txt")
+        st.error("Check if the uploaded file is .pdf or .txt")
 
     # Split document
-    split = doc_embedding.split_doc(document, chunk_size, chunk_overlap)
+    split = rag_functions.split_doc(document, chunk_size, chunk_overlap)
 
     # Check whether to create new vector store
     create_new_vs = None
@@ -66,10 +66,9 @@ if save_button:
     elif existing_vector_store != "<New>" and new_vs_name is None:
         create_new_vs = False
     else:
-        st.markdown("Check the 'Vector Store to Merge the Knowledge' and 'New Vector Store Name'")
+        st.error("Check the 'Vector Store to Merge the Knowledge' and 'New Vector Store Name'")
     
     # Embeddings and storing
-    doc_embedding.embedding_storing(
+    rag_functions.embedding_storing(
         instruct_embeddings, split, create_new_vs, existing_vector_store, new_vs_name
     )
-
