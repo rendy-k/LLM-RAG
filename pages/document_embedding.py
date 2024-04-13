@@ -41,8 +41,8 @@ with st.form("document_input"):
     with row_2[1]:
         # List the existing vector stores     
         new_vs_name = st.text_input(
-            "New Vector Store Name", placeholder="new vector store name",
-            help="If choose <New> in the dropdown / multiselect box, name the new vector store."
+            "New Vector Store Name", value="new_vector_store_name",
+            help="If choose <New> in the dropdown / multiselect box, name the new vector store. Otherwise, fill in the existing vector store to merge."
         )
 
     save_button = st.form_submit_button("Save vector store")
@@ -63,7 +63,7 @@ if save_button:
     create_new_vs = None
     if existing_vector_store == "<New>" and new_vs_name != "":
         create_new_vs = True
-    elif existing_vector_store != "<New>" and new_vs_name == "":
+    elif existing_vector_store != "<New>" and new_vs_name != "":
         create_new_vs = False
     else:
         st.error("Check the 'Vector Store to Merge the Knowledge' and 'New Vector Store Name'")
