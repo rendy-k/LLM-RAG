@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "llm-retrieval"
+version = "0.1.0"
+description = ""
+authors = ["Rendy K <rendy.kurnia@danamas.co.id>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+streamlit = "^1.33.0"
+faiss-cpu = "^1.8.0"
+sentence-transformers = "2.2.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
