@@ -10,7 +10,6 @@ with st.expander("Setting the LLM"):
     st.markdown("This page is used to have a chat with the uploaded documents")
     with st.form("setting"):
         row_1 = st.columns(3)
-        token = None
         with row_1[0]:
             token = st.text_input("Hugging Face Token", type="password")
 
@@ -40,13 +39,14 @@ with st.expander("Setting the LLM"):
 
 
 # Prepare the LLM model
-qa_conversation = None
+if "conversation" not in st.session_state:
+    st.session_state.conversation = None
+
 if token:
-    qa_conversation = rag_functions.prepare_rag_llm(
-        token, llm_model, instruct_embeddings, vector_store_list, temperature, max_length
+    st.session_state.conversation = rag_functions.prepare_rag_llm(
+        token, llm_model, instruct_embeddings, existing_vector_store, temperature, max_length
     )
 
-# Display the chatbot
 # Chat history
 if "history" not in st.session_state:
     st.session_state.history = []
@@ -69,7 +69,7 @@ if question := st.chat_input("Ask a question"):
         st.markdown(question)
 
     # Answer the question
-    answer, doc_source = rag_functions.generate_answer(qa_conversation, question, token)
+    answer, doc_source = rag_functions.generate_answer(question, token)
     with st.chat_message("assistant"):
         st.write(answer)
     # Append assistant answer to history

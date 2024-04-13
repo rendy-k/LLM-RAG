@@ -61,9 +61,9 @@ if save_button:
 
     # Check whether to create new vector store
     create_new_vs = None
-    if existing_vector_store == "<New>" and new_vs_name is not None:
+    if existing_vector_store == "<New>" and new_vs_name != "":
         create_new_vs = True
-    elif existing_vector_store != "<New>" and new_vs_name is None:
+    elif existing_vector_store != "<New>" and new_vs_name == "":
         create_new_vs = False
     else:
         st.error("Check the 'Vector Store to Merge the Knowledge' and 'New Vector Store Name'")

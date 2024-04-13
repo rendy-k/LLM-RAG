@@ -20,11 +20,8 @@ def read_pdf(file):
 
 
 def read_txt(file):
-    document = ""
-
-    reader = PdfReader(file)
-    for page in reader.pages:
-        document += page.extract_text()
+    document = str(file.getvalue())
+    document = document.replace("\\n", " \\n ").replace("\\r", " \\r ")
 
     return document
 
@@ -107,15 +104,14 @@ def prepare_rag_llm(
     return qa_conversation
 
 
-def generate_answer(qa_conversation, question, token):
-    token_exist = True if token else False
+def generate_answer(question, token):
+    answer = "An error has occured"
 
-    answer = "An errorr has occured"
-    if token_exist == False:
+    if token == "":
         answer = "Insert the Hugging Face token"
         doc_source = ["no source"]
     else:
-        response = qa_conversation({"question": question})
+        response = st.session_state.conversation({"question": question})
         answer = response.get("answer").split("Helpful Answer:")[-1].strip()
         explanation = response.get("source_documents", [])
         doc_source = [d.page_content for d in explanation]
