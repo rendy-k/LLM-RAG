@@ -51,7 +51,7 @@ if token:
 if "history" not in st.session_state:
     st.session_state.history = []
 
-# Document source
+# Source documents
 if "source" not in st.session_state:
     st.session_state.source = []
 
@@ -79,6 +79,6 @@ if question := st.chat_input("Ask a question"):
     st.session_state.source.append({"question": question, "answer": answer, "document": doc_source})
 
 
-# Document source
-with st.expander("Document source"):
+# Source documents
+with st.expander("Source documents"):
     st.write(st.session_state.source)

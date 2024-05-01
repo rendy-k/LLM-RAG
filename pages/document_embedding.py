@@ -3,7 +3,7 @@ import os
 from pages.backend import rag_functions
 
 
-st.title("Document embedding")
+st.title("Document Embedding")
 st.markdown("This page is used to upload the documents as the custom knowledge for the chatbot.")
 
 
